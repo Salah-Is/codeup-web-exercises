@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6b16bee-3ba9-4147-aaca-a834e84e02c1" name="Default Changelist" comment="Merge remote-tracking branch 'origin/main' into main" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lNyIKaLi1G5SQUsQgZJQCgTItP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/COVER" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/COVER" />
+      <recent name="$PROJECT_DIR$/.idea/js" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/.idea/js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b16bee-3ba9-4147-aaca-a834e84e02c1" name="Default Changelist" comment="" />
+      <created>1607451763270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607451763270</updated>
+      <workItem from="1607451765326" duration="4686000" />
+      <workItem from="1607527450174" duration="5000" />
+      <workItem from="1607529281296" duration="397000" />
+      <workItem from="1607631244212" duration="4133000" />
+      <workItem from="1607639994766" duration="562000" />
+      <workItem from="1607829509204" duration="889000" />
+      <workItem from="1608045649265" duration="815000" />
+      <workItem from="1608046944023" duration="636000" />
+      <workItem from="1608132004665" duration="653000" />
+      <workItem from="1608133972334" duration="88000" />
+      <workItem from="1608179888636" duration="59000" />
+      <workItem from="1608179952977" duration="13000" />
+      <workItem from="1608179970604" duration="20000" />
+      <workItem from="1608180016385" duration="44000" />
+      <workItem from="1608182149377" duration="498000" />
+      <workItem from="1608217467667" duration="90000" />
+      <workItem from="1608235315751" duration="1194000" />
+      <workItem from="1608245632738" duration="33000" />
+      <workItem from="1608335431398" duration="236000" />
+      <workItem from="1609387850616" duration="230000" />
+      <workItem from="1609388308165" duration="59000" />
+      <workItem from="1609476702843" duration="495000" />
+      <workItem from="1609792848583" duration="1015000" />
+      <workItem from="1609814677374" duration="255000" />
+      <workItem from="1609878164400" duration="1440000" />
+      <workItem from="1609982033861" duration="285000" />
+      <workItem from="1610048995862" duration="326000" />
+      <workItem from="1610078516416" duration="120000" />
+      <workItem from="1610137502202" duration="3944000" />
+      <workItem from="1610494293554" duration="1955000" />
+      <workItem from="1610510514994" duration="166000" />
+      <workItem from="1610550731518" duration="2190000" />
+      <workItem from="1610637236286" duration="604000" />
+      <workItem from="1610638073631" duration="2510000" />
+      <workItem from="1610730285705" duration="3865000" />
+      <workItem from="1611160782843" duration="1137000" />
+      <workItem from="1611262534395" duration="5766000" />
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1608217539352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608217539352</updated>
+    </task>
+    <task id="LOCAL-00007" summary="loops">
+      <created>1608337659595</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608337659595</updated>
+    </task>
+    <task id="LOCAL-00008" summary="knj">
+      <created>1609388323643</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609388323643</updated>
+    </task>
+    <task id="LOCAL-00009" summary="loops">
+      <created>1609477000619</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609477000619</updated>
+    </task>
+    <task id="LOCAL-00010" summary="loops">
+      <created>1609525061979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609525061979</updated>
+    </task>
+    <task id="LOCAL-00011" summary="loops">
+      <created>1609525107473</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609525107473</updated>
+    </task>
+    <task id="LOCAL-00012" summary="planets">
+      <created>1609814714498</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609814714498</updated>
+    </task>
+    <task id="LOCAL-00013" summary="loops">
+      <created>1609814749352</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609814749352</updated>
+    </task>
+    <task id="LOCAL-00014" summary="loops">
+      <created>1609814757085</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609814757085</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1609878317840</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609878317840</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1609878345893</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609878345893</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1609982283236</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609982283236</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1609982297628</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609982297628</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610049060295</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1610049060295</updated>
+    </task>
+    <task id="LOCAL-00020" summary="welcome.html">
+      <created>1610137569397</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1610137569397</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610137594642</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1610137594642</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610138215361</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1610138215361</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610138256029</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1610138256029</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610138879678</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1610138879678</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610142311953</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610142311953</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610143765395</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1610143765395</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610403646599</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1610403646600</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610495509072</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1610495509072</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610495658531</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1610495658531</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610550856199</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1610550856199</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610554167300</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1610554167300</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610554239424</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1610554239424</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610554347004</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1610554347004</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610655938271</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1610655938271</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610656040180</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1610656040180</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610656321012</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1610656321012</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610730504212</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1610730504212</updated>
+    </task>
+    <task id="LOCAL-00038" summary="flexbox excersice">
+      <created>1610731451339</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1610731451339</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610745766918</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1610745766918</updated>
+    </task>
+    <task id="LOCAL-00040" summary="flex form">
+      <created>1610745779162</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1610745779162</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610746402204</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1610746402204</updated>
+    </task>
+    <task id="LOCAL-00042" summary="flexcards">
+      <created>1610746528728</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1610746528728</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1610748176439</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1610748176439</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1611161047347</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1611161047347</updated>
+    </task>
+    <task id="LOCAL-00045" summary="pizza">
+      <created>1611161317337</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1611161317337</updated>
+    </task>
+    <task id="LOCAL-00046" summary="pushing files to github">
+      <created>1611263123569</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1611263123569</updated>
+    </task>
+    <task id="LOCAL-00047" summary="ushing files to github for grading">
+      <created>1611263515120</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1611263515120</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1611263590825</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1611263590825</updated>
+    </task>
+    <task id="LOCAL-00049" summary="pushing files to github for grading">
+      <created>1611263926836</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1611263926836</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1611264084627</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1611264084629</updated>
+    </task>
+    <task id="LOCAL-00051" summary="login-form.html">
+      <created>1611264265678</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1611264265678</updated>
+    </task>
+    <task id="LOCAL-00052" summary="t-block">
+      <created>1611264701170</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1611264701171</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1611287651124</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1611287651124</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1611287819759</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1611287819759</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="objects" />
+    <MESSAGE value="new commit" />
+    <MESSAGE value="welcome.html" />
+    <MESSAGE value="forms" />
+    <MESSAGE value="css_selectors" />
+    <MESSAGE value="selectors.css" />
+    <MESSAGE value="style.css" />
+    <MESSAGE value="login.css" />
+    <MESSAGE value="messages.css" />
+    <MESSAGE value="twitter" />
+    <MESSAGE value="flexbox" />
+    <MESSAGE value="flexbox excersice" />
+    <MESSAGE value="flex-form" />
+    <MESSAGE value="flexform" />
+    <MESSAGE value="flex form" />
+    <MESSAGE value="flexcards" />
+    <MESSAGE value="puppies" />
+    <MESSAGE value="pizza" />
+    <MESSAGE value="pushing files" />
+    <MESSAGE value="pushing files to github" />
+    <MESSAGE value="ushing files to github for grading" />
+    <MESSAGE value="pushing files to github for grading" />
+    <MESSAGE value="login-form.html" />
+    <MESSAGE value="t-block" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main' into main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1975" y="-182" width="1240" height="580" key="DiffContextDialog" timestamp="1611288255004">
+      <screen x="1440" y="-282" width="1920" height="960" />
+    </state>
+    <state x="1975" y="-182" width="1240" height="580" key="DiffContextDialog/1440.-282.1920.960/0.25.1440.875@1440.-282.1920.960" timestamp="1611288255004" />
+    <state x="2222" y="-62" key="RollbackChangesDialog" timestamp="1607638525885">
+      <screen x="1440" y="-282" width="1920" height="1055" />
+    </state>
+    <state x="2222" y="-62" key="RollbackChangesDialog/1440.-282.1920.1055/0.25.1440.805@1440.-282.1920.1055" timestamp="1607638525885" />
+    <state x="1975" y="-182" width="1240" height="580" key="ShowDiffWithBranchDialog" timestamp="1611288255007">
+      <screen x="1440" y="-282" width="1920" height="960" />
+    </state>
+    <state x="1975" y="-182" width="1240" height="580" key="ShowDiffWithBranchDialog/1440.-282.1920.960/0.25.1440.875@1440.-282.1920.960" timestamp="1611288255007" />
+    <state x="2077" y="-129" key="Vcs.Push.Dialog.v2" timestamp="1611287826156">
+      <screen x="1440" y="-282" width="1920" height="960" />
+    </state>
+    <state x="478" y="150" key="Vcs.Push.Dialog.v2/0.25.1440.794@0.25.1440.794" timestamp="1610143770766" />
+    <state x="478" y="152" key="Vcs.Push.Dialog.v2/0.25.1440.799@0.25.1440.799" timestamp="1610656345303" />
+    <state x="478" y="152" key="Vcs.Push.Dialog.v2/0.25.1440.801@0.25.1440.801" timestamp="1610495515221" />
+    <state x="478" y="153" key="Vcs.Push.Dialog.v2/0.25.1440.807@0.25.1440.807" timestamp="1609814901693" />
+    <state x="478" y="153" key="Vcs.Push.Dialog.v2/0.25.1440.809@0.25.1440.809" timestamp="1609878370771" />
+    <state x="478" y="150" key="Vcs.Push.Dialog.v2/1440.-282.1920.1055/0.25.1440.794@0.25.1440.794" timestamp="1610049102170" />
+    <state x="478" y="152" key="Vcs.Push.Dialog.v2/1440.-282.1920.1055/0.25.1440.799@0.25.1440.799" timestamp="1611264703735" />
+    <state x="2077" y="-114" key="Vcs.Push.Dialog.v2/1440.-282.1920.1055/0.25.1440.799@1440.-282.1920.1055" timestamp="1611171918444" />
+    <state x="2077" y="-114" key="Vcs.Push.Dialog.v2/1440.-282.1920.1055/0.25.1440.801@1440.-282.1920.1055" timestamp="1610748202450" />
+    <state x="478" y="152" key="Vcs.Push.Dialog.v2/1440.-282.1920.1055/0.25.1440.804@0.25.1440.804" timestamp="1610403658983" />
+    <state x="2188" y="-15" key="Vcs.Push.Dialog.v2/1440.-282.1920.1055/0.25.1440.804@1440.-282.1920.1055" timestamp="1607633523219" />
+    <state x="2188" y="-15" key="Vcs.Push.Dialog.v2/1440.-282.1920.1055/0.25.1440.805@1440.-282.1920.1055" timestamp="1607641065101" />
+    <state x="478" y="163" key="Vcs.Push.Dialog.v2/1440.-282.1920.953/0.25.1440.875@0.25.1440.875" timestamp="1609982305090" />
+    <state x="2077" y="-129" key="Vcs.Push.Dialog.v2/1440.-282.1920.960/0.25.1440.875@1440.-282.1920.960" timestamp="1611287826156" />
+    <state x="2077" y="-129" key="Vcs.Push.Dialog.v2/1440.-282.1920.963/0.25.1440.875@1440.-282.1920.963" timestamp="1610745782895" />
+    <state x="2188" y="-34" key="Vcs.Push.Dialog.v2/1440.-307.1920.1080/0.0.1440.900@1440.-307.1920.1080" timestamp="1607638591763" />
+    <state x="716" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609814545711">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="716" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.807@0.25.1440.807" timestamp="1609814545711" />
+    <state x="2394" y="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1440.-282.1920.1055/0.25.1440.804@1440.-282.1920.1055" timestamp="1607632930928" />
+    <state x="1440" y="-282" width="1018" height="785" key="dock-window-1" timestamp="1607633214461">
+      <screen x="1440" y="-282" width="1920" height="1055" />
+    </state>
+    <state x="1440" y="-282" width="1018" height="785" key="dock-window-1/1440.-282.1920.1055/0.25.1440.804@1440.-282.1920.1055" timestamp="1607633214461" />
+    <state x="2339" y="11" key="git4idea.ui.GitStashDialog" timestamp="1611288426299">
+      <screen x="1440" y="-282" width="1920" height="960" />
+    </state>
+    <state x="2339" y="11" key="git4idea.ui.GitStashDialog/1440.-282.1920.960/0.25.1440.875@1440.-282.1920.960" timestamp="1611288426299" />
+  </component>
+</project>
